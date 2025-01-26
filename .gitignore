@@ -1,0 +1,7 @@
+.vs
+.env
+lib
+bin
+obj
+*.txt
+*.sql
