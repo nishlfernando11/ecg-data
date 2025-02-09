@@ -5,3 +5,10 @@ bin
 obj
 *.txt
 *.sql
+EquivitalDongleExample/bin
+EquivitalDongleExample/obj
+EquivitalDongleExample/Properties
+/packages
+*.dll
+EquivitalDongleExample/*.dll
+.DS_Store
